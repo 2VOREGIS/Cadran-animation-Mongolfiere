@@ -1,0 +1,58 @@
+Marque, appareil, fabricant, nom du modèle, RAM (mémoire totale), facteur de forme, système sur puce, GPU, tailles d'écran, densités d'écran, ABI, versions du SDK Android, versions d'OpenGL ES, base d'installation
+
+samsung,fresh8us,Samsung,Galaxy Watch8,1830MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),438x438,340,armeabi
+samsung,fresh7bl,Samsung,Galaxy Watch7,1949MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),480x480,340,armeabi
+samsung,projectx2ul,Samsung,Galaxy Watch Ultra,1847MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),480x480,340,armeabi
+samsung,wiseus,Samsung,Galaxy Watch4 Classic,1345MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),396x396,320,armeabi
+google,helios,Google,Pixel watch 3,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),408x408,320,armeabi
+samsung,wisebs,Samsung,Galaxy Watch4 Classic,1443-1451MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),396x396,320,armeabi
+Mobvoi,dace,Mobvoi,TicWatch Atlas
+OnePlus,OPWWE234,OnePlus,OnePlus Watch 2R,1850MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,320,armeabi
+samsung,wise6bs,Samsung,Galaxy Watch6 Classic,1948MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),432x432,340,armeabi
+samsung,fresh8bs,Samsung,Galaxy Watch8,1933MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),438x438,340,armeabi
+samsung,wise6ul,Samsung,Galaxy Watch6 Classic,1852MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),480x480,340,armeabi
+samsung,wiseul,Samsung,Galaxy Watch4 Classic,1345-1346MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+samsung,lucky7us,Samsung,Galaxy Watch FE,1348MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),396x396,320,armeabi
+google,selene,Google,Pixel watch 3,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),408x408,320,armeabi
+samsung,wise6bl,Samsung,Galaxy Watch6 Classic,1948-1949MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),480x480,340,armeabi
+samsung,freshus,Samsung,Galaxy Watch4,1345-1354MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),396x396,320,armeabi
+samsung,fresh6us,Samsung,Galaxy Watch6,1851-1852MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),432x432,340,armeabi
+samsung,fresh7us,Samsung,Galaxy Watch7,1847MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),432x432,340,armeabi
+google,sol,Google,Pixel watch 3,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),456x456,320,armeabi
+samsung,freshbl,Samsung,Galaxy Watch4,1443-1451MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+google,eos,Google,Pixel Watch 2,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),384x384,320,armeabi
+OPPO,OWWE251,Oppo,OPPO Watch X2,1898MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,320,armeabi
+samsung,fresh7bs,Samsung,Galaxy Watch7,1949MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),432x432,340,armeabi
+OPPO,OWWE242,Oppo,OPPO Watch X2 Mini,1898MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,360,armeabi
+samsung,fresh6ul,Samsung,Galaxy Watch6,1852MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),480x480,340,armeabi
+samsung,fresh7ul,Samsung,Galaxy Watch7,1847MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),480x480,340,armeabi
+xiaomi,axolotlte,Xiaomi,Xiaomi Watch 2 Pro,1861MB,Wearable,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),466x466,320,armeabi
+samsung,wisebl,Samsung,Galaxy Watch4 Classic,1443-1451MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+samsung,heartbs,Samsung,Galaxy Watch5,1423-1431MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),396x396,320,armeabi
+samsung,fresh6bs,Samsung,Galaxy Watch6,1948-1949MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),432x432,340,armeabi
+samsung,fresh8ul,Samsung,Galaxy Watch8,1830MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),480x480,340,armeabi
+google,aurora,Google,Pixel Watch 2,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),384x384,320,armeabi
+samsung,fresh6bl,Samsung,Galaxy Watch6,1948-1949MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),480x480,340,armeabi
+samsung,heartul,Samsung,Galaxy Watch5,1326MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+samsung,projectxbl,Samsung,Galaxy Watch5 Pro,1423-1424MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+samsung,heartus,Samsung,Galaxy Watch5,1326MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),396x396,320,armeabi
+samsung,heartbl,Samsung,Galaxy Watch5,1423-1431MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+samsung,wise8us,Samsung,Galaxy Watch8 Classic,1830MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),438x438,340,armeabi
+samsung,freshul,Samsung,Galaxy Watch4,1345MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+samsung,fresh8bl,Samsung,Galaxy Watch8,1933MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),480x480,340,armeabi
+samsung,wise6us,Samsung,Galaxy Watch6 Classic,1852MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),432x432,340,armeabi
+samsung,projectx2bl,Samsung,Galaxy Watch Ultra,1847MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),480x480,340,armeabi
+samsung,projectxul,Samsung,Galaxy Watch5 Pro,1326MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),450x450,340,armeabi
+google,r11btwifi,Google,Pixel Watch,2052MB,Wearable,Samsung Exynos 9110,ARM Mali G71 (550 MHz),384x384,320,armeabi
+OnePlus,OPWWE231,OnePlus,OnePlus Watch 2,1850MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,320,armeabi
+OnePlus,OPWE242,Oppo,OnePlus Watch 3 43mm,1898MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,360,armeabi
+samsung,lucky7bs,Samsung,Galaxy Watch FE,1445MB,Wearable,Samsung S5E5515,2x ARM Mali G68 (677 MHz),396x396,320,armeabi
+xiaomi,axolotl,Xiaomi,Xiaomi Watch 2 Pro,1861MB,Wearable,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),466x466,320,armeabi
+samsung,freshbs,Samsung,Galaxy Watch4,1443-1451MB,Wearable,Samsung Exynos W920,2x ARM Mali G78 (677 MHz),396x396,320,armeabi
+google,r11,Google,Pixel Watch,1956MB,Wearable,Samsung Exynos 9110,ARM Mali G71 (550 MHz),384x384,320,armeabi
+google,luna,Google,Pixel watch 3,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),456x456,320,armeabi
+OnePlus,OPWWE251,OnePlus,OnePlus Watch 3,1898MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,320,armeabi
+google,p11,Fitbit,Fitbit Ace LTE,1825MB,Wearable,Qualcomm SW5100,Qualcomm Adreno 702 (1000 MHz),402x402,320,armeabi
+samsung,wise8bs,Samsung,Galaxy Watch8 Classic,1933MB,Wearable,Samsung S5E5535,2x ARM Mali G68 (702 MHz),438x438,340,armeabi
+OPPO,OWWE231,Oppo,OPPO Watch X,1850MB,Wearable,Qualcomm SDM429,Qualcomm Adreno 504 (320 MHz),466x466,320,armeabi
+xiaomi,axolotlaxie,Xiaomi,Xiaomi Watch 2,1861MB,Wearable,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),466x466,320,armeabi
